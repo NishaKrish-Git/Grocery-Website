@@ -1,0 +1,40 @@
+[
+    {
+      "id":1,
+      "img":"https://images.unsplash.com/photo-1610348725531-843dff563e2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHZlZ2V0YWJsZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+      "title":"Vegetables"
+    },
+    {
+      "id":2,
+      "img":"https://media.istockphoto.com/id/1156135784/photo/group-of-gujarati-snacks-like-jalebi-fafda-thepla-khaman-dhokla-aloo-bhujiya-khandvi-khakra.jpg?s=612x612&w=0&k=20&c=G_qnvUWieOKMT-T2esqVTUcRd_7ciJQO9t0b156E28w=",
+      "title":"snacks"
+    },
+    {
+      "id":3,
+      "img":"https://media.istockphoto.com/id/1132784873/photo/a-mixture-of-their-fruit-close-up.jpg?s=612x612&w=0&k=20&c=r1MQZ5PdTaOcKA1X3CbgVLeTZ7w450afjensZNcJCdo=",
+      "title":"Fruits"
+    },
+    {
+      "id":4,
+      "img":"https://media.istockphoto.com/id/1126345377/photo/rice-in-a-wooden-bowl.webp?b=1&s=170667a&w=0&k=20&c=p79PU_-aBslpm_w9HAP7MTsfQEvpQONm0GoKnJe9aQs=",
+      "title":"rice"
+    },
+    {
+      "id":5,
+      "img":"https://media.istockphoto.com/id/942313992/photo/big-bottle-of-oil-in-hand-buyer-at-grocery.jpg?s=612x612&w=0&k=20&c=7i3kd7W5KnUmXCvmFPjLNOf80uG0Dx_P3IZjUlf-uVE=",
+      "title":"oil"
+    },
+    {
+      "id":6,
+      "img":"https://media.istockphoto.com/id/175544379/photo/snacks.jpg?s=612x612&w=0&k=20&c=Bt9XnMxBL4T2wPK5jkWX5aMu3ddRpdP70ALByybie1A=",
+      "title":"nuts"
+    },
+    {
+      "id":7,
+      "img":"https://5.imimg.com/data5/SELLER/Default/2020/10/FP/GL/OA/521830/soft-drinks.jpg",
+      "title":"cooldrinks"
+    }
+  
+  ]
+  
+  

@@ -1,0 +1,133 @@
+title
+.review {
+  margin: 29px 64px;
+}
+.review p {
+  letter-spacing: 3px;
+  white-space: nowrap;
+  padding-right: 100%;
+}
+.review h1 {
+  color: #f5c32c;
+  font-size: 40px;
+  letter-spacing: 3px;
+}
+/* box1 */
+
+#box1 {
+  height: 200px;
+  width: 350px;
+  margin-right: 100px;
+  margin-left: 70px;
+  padding-top: 20px;
+  box-sizing: content-box;
+  padding-left: 88px;
+  border: 1px solid #f5c32c;
+  position: relative;
+}
+.rounded-corners {
+  height: 90px;
+  border-radius: 50%;
+  position: absolute;
+  top: 10px;
+  left: 0px;
+}
+#box1 p:nth-of-type(3) {
+  color: gray;
+  padding-right: 20px;
+  letter-spacing: 0.7px;
+  font-size: 16px;
+}
+#box1 p:nth-of-type(1) {
+  letter-spacing: 2px;
+  margin-right: 40px;
+}
+#box1 p:nth-of-type(2) {
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+
+/* box2 */
+
+.bx-cont1,
+.bx-cont2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#box2 {
+  height: 200px;
+  width: 350px;
+  margin-right: 130px;
+  margin-left:20px ;
+  padding-top: 20px;
+  box-sizing: content-box;
+  padding-left: 88px;
+  border: 1px solid #f5c32c;
+  position: relative;
+}
+
+#box2 p:nth-last-of-type(1) {
+  color: gray;
+  letter-spacing: 0.7px;
+  font-size: 16px;
+}
+#box2 p:nth-last-of-type(3) {
+  letter-spacing: 2px;
+}
+#box2 p:nth-last-of-type(2) {
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+
+.bx {
+  display: flex;
+  overflow: hidden;
+}
+
+
+.feedbtn {
+  color: white;
+  border-radius: 20px;
+  background-color: #f5c32c;
+  border: 1px solid white;
+  padding: 10px;
+  position: absolute;
+  left: 48%;
+}
+.feedbtn:hover {
+  background-color: white;
+  border: 1px solid #f5c32c;
+  color: #f5c32c;
+}
+
+@media screen and (max-width:535px) {
+  .review h1 {
+    color: #f5c32c;
+    font-size: 20px;
+    letter-spacing: 3px;
+  }
+  #box1 {
+    height: 190px;
+    width: 240px;
+    margin-right: 100px;
+    margin-left: 13px;
+    padding-top: 20px;
+    box-sizing: content-box;
+    padding-left: 88px;
+    border: 1px solid #f5c32c;
+    position: relative;
+  }
+  .feedbtn {
+    color: white;
+    border-radius: 20px;
+    background-color: #f5c32c;
+    border: 1px solid white;
+    padding: 10px;
+    position: absolute;
+    left: 150px;
+  }
+}
+
+
+
